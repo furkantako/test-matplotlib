@@ -1,7 +1,7 @@
 import matplotlib
 import matplotlib.pylab as plt
 import math as m
-import numpy as np
+import numpy as np   #fffffurkan
 
 # parametreler
 
